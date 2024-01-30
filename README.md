@@ -5,10 +5,10 @@ This project contains a WhatsApp clone developed using React Native.
 
 
 
-![Ekran görüntüsü 2024-01-30 181332](https://github.com/cngzhn06/ReactNative-WhatsAppClone/assets/95685025/ca69e25b-0b67-4dde-b539-978898dbfe6a)
-![Ekran görüntüsü 2024-01-30 181341](https://github.com/cngzhn06/ReactNative-WhatsAppClone/assets/95685025/c7d75224-8256-4e49-8987-e831af0d2e20)
-![Ekran görüntüsü 2024-01-30 181347](https://github.com/cngzhn06/ReactNative-WhatsAppClone/assets/95685025/92171e3f-8318-4022-bb01-483e18f073ad)
-![Ekran görüntüsü 2024-01-30 181353](https://github.com/cngzhn06/ReactNative-WhatsAppClone/assets/95685025/70f6a225-f9fa-4020-a49b-5fd9335bcaf7)
+![Ekran görüntüsü 2024-01-30 182517](https://github.com/cngzhn06/ReactNative-WhatsAppClone/assets/95685025/37e03beb-88e6-49d6-9e75-3b466efef4c2)
+![Ekran görüntüsü 2024-01-30 182525](https://github.com/cngzhn06/ReactNative-WhatsAppClone/assets/95685025/04bc5c11-173a-4da4-93ea-f3f219c92b0c)
+![Ekran görüntüsü 2024-01-30 182537](https://github.com/cngzhn06/ReactNative-WhatsAppClone/assets/95685025/fb1438c8-10b2-4ed9-a992-54cedf821a8e)
+![Ekran görüntüsü 2024-01-30 182548](https://github.com/cngzhn06/ReactNative-WhatsAppClone/assets/95685025/8d54a742-f03a-4094-b29c-4d0d0ae9a7d2)
 
 ## Getting Started
 
